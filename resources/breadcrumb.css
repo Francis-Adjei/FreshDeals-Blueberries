@@ -17,15 +17,15 @@
   }
   
   .breadcrumb li.attribute a{
-    color: gray;
+    color: rgb(77, 70, 70);;
     margin-left: 10px;
   }
   
   .breadcrumb li.attribute ::after{
     content: "*";
     vertical-align: super;
-    color: gray;
+    color: rgb(77, 70, 70);;
   }
   .breadcrumb li.attribute a:hover{
-    color: green;
+    color: rgb(44, 78, 44);
   }
